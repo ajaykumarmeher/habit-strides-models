@@ -3,6 +3,16 @@
 Model files that the Habit Strides app downloads for its optional, on-device assistant. The models run entirely
 on the user's phone.
 
+## Gemma 3 1B (Standard)
+
+| File | Size | SHA-256 |
+|---|---|---|
+| `gemma3-1b-it-int4.litertlm` (in the [release](../../releases/tag/gemma-3-1b-it-int4-v1)) | 584,417,280 bytes | `1325ae366d31950f137c9c357b9fa89448b176d76998180c08ceaca78bba98be` |
+
+- **Source:** [litert-community/Gemma3-1B-IT](https://huggingface.co/litert-community/Gemma3-1B-IT), redistributed **unmodified**.
+- **License and use restrictions:** the same as Gemma 3 270M below: the Gemma Terms of Use, the [`NOTICE`](NOTICE),
+  and the Gemma Prohibited Use Policy apply.
+
 ## Gemma 3 270M (Lite)
 
 | File | Size | SHA-256 |
